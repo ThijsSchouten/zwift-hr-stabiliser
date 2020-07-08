@@ -10,7 +10,7 @@ CLI to read HR from BLE source. Increases/decreases zwift watt% based on target 
 ### Python dependencies
 Use pip to install dependencies from file or manually install the following dependencies:
 - [AutoHotKey wrapper]( https://github.com/spyoungtech/ahk)
-- [bleak] (https://github.com/hbldh/bleak)
+- [bleak](https://github.com/hbldh/bleak)
 
 ### External Dependencies
 [AutoHotKey](https://www.autohotkey.com/)
