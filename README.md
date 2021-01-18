@@ -27,3 +27,7 @@ On windows:
 ### Setup parameters
 Target Heartrate:
 Heartrate smoothing
+
+## Todo
+1. Convert to VUEjs and electron?
+
