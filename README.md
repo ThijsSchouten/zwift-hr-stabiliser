@@ -24,6 +24,6 @@ On windows:
 - Dont forget to restart commandprompt
 
 ## Usage
-### Setup paramaters
+### Setup parameters
 Target Heartrate:
 Heartrate smoothing
